@@ -19,7 +19,7 @@
     "greeting": "Hello, I am",
     "name": "Caio Marques",
     "role": "Mid-Level Software Engineer",
-    "badge": "Fullstack Developer | Frontend & LLM Integration",
+    "badge": "Mid-level Developer | Specialization in frontend and AI functionalities",
     "description": "I build digital experiences that blend high-performance engineering with immersive aesthetics. Turning complex problems into elegant, user-centric solutions.",
     "cta_projects": "View Projects",
     "cta_stacks": "Stacks",
@@ -36,13 +36,13 @@
     "subtitle": "Deployed Systems",
     "precision_proof": {
       "title": "Precision Proof Systems",
-      "description": "Technical leadership in developing an industrial digital proofing validation suite. Implemented pixel-perfect image comparison algorithms and complex approval workflows. Achieved 40% reduction in manual QA time through automation and reactive interfaces. Resilient architecture based on React and Node.js to support intensive image processing loads.",
-      "tags": ["React", "TypeScript", "React Hooks", "Node.js", "Express", "PostgreSQL", "TypeORM"]
+      "description": "Technical leadership in developing an industrial digital proofing validation suite and quality management software. Implemented pixel-perfect image comparison algorithms and complex approval workflows. Achieved 40% reduction in manual QA time through automation and reactive interfaces. Resilient architecture based on React and Node.js to support intensive image processing loads.",
+      "tags": ["React", "TypeScript", "React Hooks", "Node.js", "Express", "PostgreSQL", "TypeORM", "SaaS", "Kanban"]
     },
     "evot": {
       "title": "Evot Software",
       "description": "Fullstack development of modular ERPs for large corporations. Engineered .NET Core microservices for inventory management and billing, integrated with a high-performance Angular frontend. Implemented CQRS and Event Sourcing patterns to ensure data consistency in distributed, high-concurrency environments.",
-      "tags": ["Angular", ".NET", "C#", "SQL", "NestJS", "TypeORM"]
+      "tags": ["Angular", ".NET", "C#", "SQL", "NestJS", "TypeORM", "SaaS", "Scrum"]
     },
     "ai_lab": {
       "title": "Generative AI Lab",

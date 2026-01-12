@@ -19,7 +19,7 @@
     "greeting": "Olá, eu sou",
     "name": "Caio Marques",
     "role": "Engenheiro de Software Pleno",
-    "badge": "Desenvolvedor Fullstack | Especialização em Frontend",
+    "badge": "Desenvolvedor Fullstack | UI/UX Designer | Especialização em frontend e funcionalidades IA",
     "description": "Crio experiências digitais que unem engenharia de alta performance com estética imersiva e intuitiva. Transformando problemas complexos em soluções elegantes e centradas no usuário.",
     "cta_projects": "Ver Projetos",
     "cta_stacks": "Stacks",
@@ -41,13 +41,13 @@
     "subtitle": "Sistemas",
     "precision_proof": {
       "title": "Precision Proof Systems",
-      "description": "Desenvolvimento de uma versão de um software industrial de validação de embalagens utilizando computação visual e gestão das artes digitais para empresas de grande porte. Trabalhei com fluxos de aprovação complexos e seus progressos. Redução de 40% no tempo de QA manual através de automação e interfaces reativas otimizadas. Arquitetura resiliente baseada em React e Node.js para suportar cargas intensivas de processamento de imagem.",
-      "tags": ["React", "TypeScript", "React Hooks", "NodeJs", "Express", "Tailwind", "PostgreSQL", "TypeORM"]
+      "description": "Desenvolvimento de uma versão de um software industrial de validação de embalagens e gestão de qualidade utilizando computação visual e gestão das artes digitais para empresas de grande porte. Trabalhei com fluxos de aprovação complexos e seus progressos. Redução de 40% no tempo de QA manual através de automação e interfaces reativas otimizadas. Arquitetura resiliente baseada em React e Node.js para suportar cargas intensivas de processamento de imagem.",
+      "tags": ["React", "TypeScript", "React Hooks", "NodeJs", "Express", "Tailwind", "PostgreSQL", "TypeORM", "SaaS", "Kanban"]
     },
     "evot": {
       "title": "Evot Software",
       "description": "Desenvolvimento fullstack de softwares de gestão de frotas e passageiros em empresas de grande porte. Engenharia de interfaces que suportavam dados brutos e escaláveis intuitivamente. Manutenção de arquitetura DDD baseada em .NET Core para regras de negócios, frontend Angular 14+ de alta performance seguindo padrões arquiteturais. Desenvolvi também um sistema de controle de SCRUM para organização interna da empresa.",
-      "tags": ["Angular", ".NET", "C#", "SQL", "Bootstrap", "Angular Materials", "NestJs", "TypeORM"]
+      "tags": ["Angular", ".NET", "C#", "SQL", "Bootstrap", "Angular Materials", "NestJs", "TypeORM", "SaaS", "Scrum"]
     },
     "ai_lab": {
       "title": "Pesquisas e graduções em LLMs e IA Generativa",
